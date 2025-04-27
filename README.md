@@ -1,5 +1,4 @@
 # Voicemail_System
-Voice Mail System
 A Python-based voice messaging platform that enables secure user login, contact management, and the ability to send and receive voice messages.
 
 Key Features
